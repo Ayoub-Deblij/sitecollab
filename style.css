@@ -1,0 +1,23 @@
+git clone https://github.com/Ayoub-Deblij/ImadEddine-Ayoub.git
+
+cd ImadEddine-Ayoub
+
+code .
+
+git branch feature-login
+
+git switch feature-login 
+
+git add .
+
+git commit -m "modifier-par-ayoub"
+
+git branch
+
+git branch imad-eddine 
+
+git merge feature-login
+
+git push 
+
+git branch -d feature-login
